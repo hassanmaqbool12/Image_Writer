@@ -1,7 +1,7 @@
 # Image Writer
 A Graphical tool to write iso files to USB
 
-![ScreenShot](![ScreenShot](https://github.com/hassanmaqbool12/Image_Writer/blob/6391333be3bab09251d4ad0f8e4e1e99ee240106/Media/demo.png))
+(![ScreenShot](https://github.com/hassanmaqbool12/Image_Writer/blob/6391333be3bab09251d4ad0f8e4e1e99ee240106/Media/demo.png))
 
 # More
 - It uses `dd` behind the scene to write images to USB
